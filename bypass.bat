@@ -1,4 +1,5 @@
 @echo off
+::Test edit in Git directly.
 
 :: BatchGotAdmin credit: https://sites.google.com/site/eneerge/scripts/batchgotadmin
 :-------------------------------------

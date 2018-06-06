@@ -1,0 +1,37 @@
+Create menu script
+
+Intro:
+This script is meant to purge a Stardock app and download current version for reinstall (if that is the goal).
+
+This script will do the following:
+-Ask what app you want to purge (and potentially reinstall)
+-Get the needed files from the Internet (Stardock) based on your selection
+-Ask if you are wanting to perform the process on this PC or another (does not have Internet)
+-Based on that choice, ask you to continue (on this PC) or what to do next if it is to be done on another.
+
+App selection:
+-Fences
+-Multiplicity
+
+Multiplicity was selected, do you just want to purge the application or purge and reinstall?
+-Just purge
+-Purge and reinstall
+
+Purge and reinstall was selected, getting files....
+-MultiplicityPurge downloading
+-Current version of Multiplicity installer downloading.
+
+Are you wanting to perform the purge and reinstall on this PC or another (one that does not have Internet)?
+-This PC
+-Another PC
+
+This PC was slected, starting purge:
+
+[Purge MP]
+[Write temp file to show ]
+[Write RunOnce regkey to ]
+[Warn user of unprompted reboot]
+[Call uninstaller]
+
+
+
